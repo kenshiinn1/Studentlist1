@@ -28,6 +28,7 @@ public class ReverseWord {
         for(int i = 0 ; i <myLetters.length-1; i--){
             myLetters[i] = word.charAt(i);
             System.out.println(myLetters[i]);
+            //no comment only testing
         }
     }
 }
